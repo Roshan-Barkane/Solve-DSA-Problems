@@ -11,7 +11,6 @@ int main()
 
     int n = 121, dup = n;
     int rev = 0;
-
     while (n > 0)
     {
         int last = n % 10;
